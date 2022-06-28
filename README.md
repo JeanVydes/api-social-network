@@ -2,6 +2,14 @@
 
 API for main features for a social network
 
+# Enviroment Variables Structure
+
+```
+PORT=
+MONGO_URL=
+MAIN_DATABASE_NAME=
+```
+
 # Structures
 
 - Authentication
